@@ -30,7 +30,7 @@ A desktop application built using Tkinter for the GUI and SQLite for the databas
  );
 
 **_Run the application:_**
- - python visitor_management.py
+ - python vms.py or the file name you gave.
 
 **Adding Visitor Details:**
 - Enter the visitor's name, phone number, in-time, out-time, and select the office.
