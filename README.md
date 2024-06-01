@@ -42,7 +42,17 @@ A desktop application built using Tkinter for the GUI and SQLite for the databas
 
 ## Ouput
 **Main Visitor Entry Page (root):**
+
 ![Screenshot 2024-06-01 113718](https://github.com/Pratham3642/Visitor-management/assets/162919475/dc6aa9d7-c6bd-417b-a4cd-1cdfeb8181fb)
+
+**Admin Login Page (admin):**
+
+![Screenshot 2024-06-01 113746](https://github.com/Pratham3642/Visitor-management/assets/162919475/8d2e7822-5858-44b4-b090-e2727644947b)
+
+**Visitor Information View Page (view):**
+
+
+
   
 
   
