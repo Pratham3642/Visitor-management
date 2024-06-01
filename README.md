@@ -21,13 +21,7 @@ A desktop application built using Tkinter for the GUI and SQLite for the databas
 - sqlite3 visitor.db
 
 **Create the "visitor" table:**
- - CREATE TABLE visitor (
-    name TEXT,
-    phone TEXT,
-    intime TEXT,
-    outtime TEXT,
-    office INTEGER
- );
+ - CREATE TABLE visitor(name text,phone integer,in_time text,out_time text,office text);
 
 **_Run the application:_**
  - python vms.py or the file name you gave.
